@@ -1,21 +1,14 @@
 [
 	{
-		"name": "One-Horse Open Sleigh",
-		"unitType": "Archery",
-		"uniqueTo": "The North Pole",
-		"replaces": "Chariot Archer",
-		"movement": 4,
-		"strength": 6,
-		"rangedStrength": 10,
-		"cost": 56,
-		"requiredTech": "The Wheel",
-		"requiredResource": "Horses",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus",
-			"Rough terrain penalty",
-			"[+10]% Strength <when fighting in [Snow] tiles>",
-			"[+10]% Strength <when fighting in [Tundra] tiles>"],
-		"attackSound": "arrow"
+		"name": "EU Rapid Reaction Force",
+		"unitType": "Gunpowder",
+		"uniqueTo": "European Union",
+		"replaces": "Infantry",
+		"movement": 3,
+		"strength": 70,
+		"cost": 375,
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
 	}
 ]

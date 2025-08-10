@@ -4,14 +4,14 @@
 		"replaces": "Bank",
 		"uniqueTo": "European Union",
 		"gold": 2,
+		"science": 2,
+		"culture": 2,
+		"happiness": 1,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
-		"uniques": [
-			"[+15]% [Gold]",
-			"[+2 Science, +2 Culture, +1 Happiness]"
-		],
+		"uniques": ["[+15]% [Gold]"],
 		"requiredTech": "Banking"
 	}
 ]
