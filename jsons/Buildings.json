@@ -13,5 +13,12 @@
 		"requiredBuilding": "Market",
 		"uniques": ["[+15]% [Gold]"],
 		"requiredTech": "Banking"
+	},{
+		"name": "[Greece] Response HQ",
+		"uniqueTo": "European Union",
+		"cost": 125,
+		"isNationalWonder": true,
+		"uniques": [],
+		"requiredTech": "Military Science"
 	}
 ]
