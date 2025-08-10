@@ -5,5 +5,50 @@
 	},{
 		"name": "[The Netherlands] Counter-tactics",
 		"uniques": ["[+10]% Strength <vs [The Netherlands] units>"]
-	}
+	},{
+		"name": "[Greece] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Greece] units>"]
+	},{
+		"name": "[The Netherlands] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [The Netherlands] units>"]
+	},{
+		"name": "[Austria] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Austria] units>"]
+	},{
+		"name": "[Byzantium] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Byzantium] units>"]
+	},{
+		"name": "[Celts] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Celts] units>"]
+	},{
+		"name": "[Denmark] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Denmark] units>"]
+	},{
+		"name": "[England] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [England] units>"]
+	},{
+		"name": "[France] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [France] units>"]
+	},{
+		"name": "[Germany] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Germany] units>"]
+	},{
+		"name": "[Rome] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Rome] units>"]
+	},{
+		"name": "[Russia] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Russia] units>"]
+	},{
+		"name": "[Spain] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Spain] units>"]
+	},{
+		"name": "[Sweden] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [Sweden] units>"]
+	},{
+		"name": "[The Huns] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [The Huns] units>"]
+	},{
+		"name": "[The Ottomans] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [The Ottomans] units>"]
+    }
 ]
