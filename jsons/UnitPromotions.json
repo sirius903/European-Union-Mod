@@ -2,5 +2,8 @@
 	{
 		"name": "[Greece] Counter-tactics",
 		"uniques": ["[+10]% Strength <vs [Greece] units>"]
+	},{
+		"name": "[The Netherlands] Counter-tactics",
+		"uniques": ["[+10]% Strength <vs [The Netherlands] units>"]
 	}
 ]
