@@ -2,6 +2,6 @@
 	{
 		"name": "Snow Shoes",
 		"uniques": ["Double movement in [Snow]", "Double movement in [Tundra]", "Can enter ice tiles"],
-		"unitType": ["EU Rapid Reaction Force"]
+		"unitTypes": ["EU Rapid Reaction Force"]
 	}
 ]
