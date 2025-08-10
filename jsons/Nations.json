@@ -1,37 +1,49 @@
 [
 	{
-		"name": "The North Pole",
-		"leaderName": "Saint Nicholas",
-		"adjective": ["Polar"],
-		"startBias": ["Tundra"],
-		"preferredVictoryType": "Cultural",
+		"name": "European Union",
+		"leaderName": "Jean Monnet",
+		"adjective": ["European"],
+		"startBias": ["Coastal", "River"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "'When, what to my wondering eyes should appear, but a miniature sleigh, and eight tiny reindeer, with a little old driver, so lively and quick, I knew in a moment it must be St. Nick.' - Clement Moore",
-		"startIntroPart2": "'Maybe Christmas, he thought, doesn't come from a store. Maybe Christmas, perhaps, means a little bit more.' - Theodore Geisel",
+		"startIntroPart1": "From the ashes of two world wars, a vision arose: a Europe united, peaceful, and prosperous. Jean Monnet, the quiet architect of integration, your task is to guide the European Union toward unity while balancing the diversity of its peoples.",
+		"startIntroPart2": "The world watches as you weave diplomacy, trade, and science into a fabric strong enough to endure the centuries. Will you lead Europe to a new golden age of cooperation?",
 		
-		"declaringWar": "The naughty must be punished! Prepare to receive your coal!",
-		"attacked": "You dare declare war on Christmas? Bah humbug!",
-		"defeated": "Christmas is canceled! Who will help the children now?",
-		"introduction": "Merry Christmas! Have you been good this year?",
+		"declaringWar": "Unity ends here. Prepare to face the combined strength of Europe.",
+		"attacked": "You strike at Europe? Then Europe will strike back.",
+		"defeated": "Division has undone us. The union falls silent.",
+		"introduction": "The European Union greets you in the spirit of cooperation.",
 		
-		"neutralHello": "What would you like for Christmas?",
-		"neutralLetsHearIt": "Whisper in my ear.",
-		"neutralNo": "No, that won't do.",
-		"neutralYes": "Yes, that is good.",
+		"neutralHello": "How shall we work together today?",
+		"neutralLetsHearIt": "Speak, and let us find common ground.",
+		"neutralNo": "That does not serve our shared interest.",
+		"neutralYes": "Agreed, this benefits us both.",
 
-		"hateHello": "Are you still being naughty?",
-		"hateLetsHearIt": "Go on, give me your letter.",
-		"hateNo": "That's not nice!",
-		"hateYes": "Very well.",
-		
-		"afterPeace": "Enough fighting. Time for milk and cookies.",
-		"tradeRequest": "I have gifts for you!",
+		"hateHello": "Is it discord you bring again?",
+		"hateLetsHearIt": "Speak, though I doubt you bring harmony.",
+		"hateNo": "This will only sow division.",
+		"hateYes": "Very well, reluctantly.",
 
-		"outerColor": [112,0,0],
-		"innerColor": [51,147,51],
-		"uniqueName": "Christmas Spirit",
-		"uniques": ["[+1 Happiness] from all [Production] buildings","[non-[Air]] units gain the [Snow Shoes] promotion","Double quantity of [Coal] produced"],
-		"cities": ["90 Degrees North","Santa's Corner","Coffee Club Island","Polar Expressway","Alert","Camp Barneo","Drift Station Alpha","Arktika","Hans Island","Candy Cane Forest","Rudolph's Place"],
-		"spyNames": ["Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen", "Rudolph", "Olive"]
+		"afterPeace": "Let us set aside our quarrels and rebuild trust.",
+		"tradeRequest": "Shall we expand our common market?",
+
+		"outerColor": [0,51,153],
+		"innerColor": [255,204,0],
+		"uniqueName": "In Varietate Concordia",
+		"uniques": [
+			"Enables Research agreements",
+			"Science gained from research agreements [25]%",
+			"Allied City-States provide [Happiness] equal to [50]% of what they produce for themselves",
+			"[15]% [Science] [in all cities connected to capital]"
+		],
+		"cities": [
+			"Brussels","Strasbourg","Luxembourg","Frankfurt","The Hague",
+			"Vienna","Warsaw","Stockholm","Copenhagen","Madrid",
+			"Lisbon","Rome","Athens","Helsinki","Tallinn"
+		],
+		"spyNames": [
+			"Schuman","Adenauer","Spinelli","De Gasperi","Hallstein",
+			"Delors","Barroso","Van Rompuy","Juncker","Tusk"
+		]
 	}
 ]
