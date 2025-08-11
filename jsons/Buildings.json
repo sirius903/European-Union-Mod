@@ -9,9 +9,8 @@
 		"happiness": 1,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 15},
 		"requiredBuilding": "Market",
-		"uniques": ["[+15]% [Gold]"],
 		"requiredTech": "Banking"
 	},{
 		"name": "[Greece] Response HQ",
